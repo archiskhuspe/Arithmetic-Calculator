@@ -18,4 +18,5 @@ The arithmetic functions available for the user are: -
 
 💫 Files
 
-C Code
+1. C Code: Project file
+2. Research Paper: Detailed information of the project
