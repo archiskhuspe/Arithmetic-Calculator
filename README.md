@@ -16,6 +16,6 @@ The arithmetic functions available for the user are: -
 4.	Find Mean
 5.	Variance and Standard Deviation
 
-💫 Result
+💫 Files
 
-Hence, the expected result from this project is that users will get the stepwise solutions to their questions very easily whilst improving the overall user experience.
+C Code
